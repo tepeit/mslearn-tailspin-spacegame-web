@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tepeit/space%20game%20web%20pipeline/_apis/build/status/tepeit.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/tepeit/space%20game%20web%20pipeline/_build/latest?definitionId=5&branchName=main)
 
 # Contributing
 
